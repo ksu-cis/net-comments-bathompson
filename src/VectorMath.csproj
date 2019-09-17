@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile></DocumentationFile>
+    <DocumentationFile>C:\Users\bathompson\Desktop\net-comments-bathompson-master\src\VectorMath.xml</DocumentationFile>
   </PropertyGroup>
 
 </Project>

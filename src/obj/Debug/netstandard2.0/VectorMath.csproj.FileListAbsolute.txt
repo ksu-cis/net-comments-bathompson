@@ -1,0 +1,10 @@
+C:\Users\bathompson\Desktop\net-comments-bathompson-master\src\bin\Debug\netstandard2.0\VectorMath.deps.json
+C:\Users\bathompson\Desktop\net-comments-bathompson-master\src\bin\Debug\netstandard2.0\VectorMath.dll
+C:\Users\bathompson\Desktop\net-comments-bathompson-master\src\bin\Debug\netstandard2.0\VectorMath.pdb
+C:\Users\bathompson\Desktop\net-comments-bathompson-master\src\bin\Debug\netstandard2.0\VectorMath.xml
+C:\Users\bathompson\Desktop\net-comments-bathompson-master\src\obj\Debug\netstandard2.0\VectorMath.csprojAssemblyReference.cache
+C:\Users\bathompson\Desktop\net-comments-bathompson-master\src\obj\Debug\netstandard2.0\VectorMath.csproj.CoreCompileInputs.cache
+C:\Users\bathompson\Desktop\net-comments-bathompson-master\src\obj\Debug\netstandard2.0\VectorMath.AssemblyInfoInputs.cache
+C:\Users\bathompson\Desktop\net-comments-bathompson-master\src\obj\Debug\netstandard2.0\VectorMath.AssemblyInfo.cs
+C:\Users\bathompson\Desktop\net-comments-bathompson-master\src\obj\Debug\netstandard2.0\VectorMath.dll
+C:\Users\bathompson\Desktop\net-comments-bathompson-master\src\obj\Debug\netstandard2.0\VectorMath.pdb
